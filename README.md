@@ -3,6 +3,7 @@ RealTime_BusTracker
 
 # Description:
 This project shows a real-time bus tracker from MIT to Harvard. By clicking the button the marker moves and stops at each bus stop along the route.
+[View here](file:///c%3A/Nodeprojects/Real_Time_Bus_Tracker/index.html)
 
 # Installation:
 To clone and run this application, you'll need Git 
