@@ -1,5 +1,5 @@
 # Project Title:
-RealTime_BusTracker
+## RealTime_BusTracker
 
 # Description:
 This project shows a real-time bus tracker from MIT to Harvard. By clicking the button the marker moves and stops at each bus stop along the route.
