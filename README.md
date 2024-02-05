@@ -7,13 +7,15 @@ This project shows a real-time bus tracker from MIT to Harvard. By clicking the 
 [You can find the link here]( https://hema35.github.io/RealTime_BusTracker/)
 
 # How to Run Roadmap:
-To clone and run this application, you'll need Git 
+To clone and run this application, you must install GIT on your machine.
 
- Clone this repository
-$ git clone repo name
+Go to the repository and copy the link of the repo.
 
- Go into the repository
-$ cd directory name
+Change the current working directory to the location where you want the cloned directory.
+
+Clone this repository: Type - $ git clone repo name
+
+Press Enter to create your local clone
 
 # Support:
 You can go to Mapbox to get the API to find the documentation.
