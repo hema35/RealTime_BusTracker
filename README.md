@@ -6,7 +6,7 @@ This project shows a real-time bus tracker from MIT to Harvard. By clicking the 
 
 [You can find the link here]( https://hema35.github.io/RealTime_BusTracker/)
 
-# How to Run Roadmap:
+# How to Run:
 To clone and run this application, you must install GIT on your machine.
 
 Go to the repository and copy the link of the repo.
@@ -20,7 +20,7 @@ Press Enter to create your local clone
 # Support:
 You can go to Mapbox to get the API to find the documentation.
 
-# Future Improvements:
+# Roadmap of Future Improvements:
 Potential future enhancements include changing the marker, displaying information about the places, and adding additional details about each bus stop.
 
 # License:
